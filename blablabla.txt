@@ -5,3 +5,13 @@ passwd lol
 
 
 test@test.com:superpassword
+
+
+
+/ have been either added or updated.
+    // The loginUserName and loginPassWord are the credentials for a user
+    // who has permission to view the issues that you wish to export.
+    String loginUserName = "testusernameftw";
+    String loginPassWord = "thisisatestlol";
+    // String loginUserName = "loginfailed";
+    // String loginPassWord = "notarealpassword";
