@@ -7,12 +7,6 @@ passwd lol
 test@test.com:superpassword
 
 
-[default]
-aws_access_key_id = AKIAT4GVSAXXPF2T65P4
-aws_secret_access_key = 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
-output = json
-region = us-east-2
-
     String user = "superusuario";
     String pass = "isnotreallol";
 
