@@ -13,10 +13,6 @@ aws_secret_access_key = hUC52SzfTr4mLFcrApGlXHqCnaRTlepJg7Jc4CPo
 output = json
 region = us-east-2
 
-
-/ have been either added or updated.
-    // The loginUserName and loginPassWord are the credentials for a user
-    // who has permission to view the issues that you wish to export.
     String user = "superusuario";
     String pass = "isnotreallol";
 
